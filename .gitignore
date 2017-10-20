@@ -1,0 +1,8 @@
+# Ignore everything except ircfuzz.py and the .gitignore and markdown files
+
+*
+
+!.gitignore
+!README.md
+!LICENSE.md
+!ircfuzz.py
